@@ -18,7 +18,7 @@ torch
 
 node2vec
 
-matplotlib
+netowrkx
 
 torch_geometric
 

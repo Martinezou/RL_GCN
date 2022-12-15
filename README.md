@@ -1,4 +1,7 @@
-# This project is used for the paper "Rewiring Complex Networks to Achieve Cluster Synchronization using Graph Convolution Networks
+# Rewiring Complex Networks to Achieve Cluster Synchronization using Graph Convolution Networks
+with Reinforcement Learning
+
+This project is used for the paper "Rewiring Complex Networks to Achieve Cluster Synchronization using Graph Convolution Networks
 with Reinforcement Learning". 
 
 The project contains 3 parts: 

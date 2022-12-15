@@ -11,3 +11,15 @@ The project contains 3 parts:
 2.RL_GCN_global_LargeNet: RL-GCN to achieve global synchronization in Hindamarsh-Rose neuronal circuit embedding in a cat-brain network
 
 3.RL_GCN_cluster: RL-GCN to achieve cluster synchronization in Rossleler system
+
+This code is written in Python. To run this code please install following modules:
+
+torch
+
+node2vec
+
+matplotlib
+
+torch_geometric
+
+gym

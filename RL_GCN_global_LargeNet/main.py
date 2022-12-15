@@ -195,7 +195,7 @@ for i in range(1):
     hidden1_dim = 20   #10
     hidden2_dim = 10   #10
     gamma = 0.98
-    device = torch.device('cuda') if torch.cuda.is_available() else torch.device('cpu')
+    device = torch.device('cpu') if torch.cuda.is_available() else torch.device('cpu')
     env = GraphEnv()
     action_dim = env.action_space
     agent = ActorCritic(feature1_dim, feature2_dim, hidden1_dim,
